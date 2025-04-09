@@ -1,0 +1,24 @@
+src
+|--/config
+|    |--dbConfig.mjs
+|
+|-- /models
+|    |-- SuperHero.mjs
+|
+|-- /repositories
+|    |-- IRepository.mjs
+|    |-- SuperHeroRepository.mjs
+|
+|-- /services
+|    |-- superheroesService.mjs
+|
+|-- /controllers
+|    |-- superheroesController.mjs
+|
+|-- /routes
+|    |--superHeroRoutes.mjs
+|
+|-- /views
+|    |-- responseView.mjs
+|
+|-- app.mjs
